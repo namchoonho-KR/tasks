@@ -15,6 +15,7 @@
 | 코딩 | [tasks/coding/tasks.md](tasks/coding/tasks.md) | 개발, 구현 |
 | 일반 | [tasks/general/tasks.md](tasks/general/tasks.md) | 기타 업무 |
 | 지식펜 | [tasks/지식펜/tasks.md](tasks/지식펜/tasks.md) | 지식펜 강연·교정 |
+| 여행 | [tasks/여행/제주도_202605/tasks.md](tasks/여행/제주도_202605/tasks.md) | 제주도 가족여행 (5월 초, 검토중) |
 
 ---
 
