@@ -123,3 +123,5 @@
 | `++routine` | `namchoonho-KR/routine` | 진행중 |
 | `++aiauto` | `namchoonho-KR/aiauto` | 진행중 |
 | `++Projects-Program` | `namchoonho-KR/Projects-Program` | 진행중 |
+| `++SSCI` | `namchoonho-KR/SSCI` | 진행중 |
+| `++메모` | `namchoonho-cmd/memo` | 구 계정 (이전 필요) |
