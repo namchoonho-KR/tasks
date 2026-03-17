@@ -96,6 +96,16 @@
 
 ---
 
+## 연관 도구 (++Projects-Program)
+
+| 도구 | 위치 |
+|------|------|
+| HWP→MD 변환기 | `C:\Dropbox\++Projects-Program\03_hwp2md_운영\` |
+| PDF→한국어 번역 | `C:\Dropbox\++Projects-Program\04_번역_운영\` |
+| 논문작성규칙 | `C:\Dropbox\++Projects-Program\03_논문작성규칙\` |
+
+---
+
 ## 세션 시작 시
 
 `INDEX.md`와 `현재상황+YYYYMMDD.md`를 열어 전체 현황을 확인한다.
