@@ -99,3 +99,17 @@
 ## 세션 시작 시
 
 `INDEX.md`와 `현재상황+YYYYMMDD.md`를 열어 전체 현황을 확인한다.
+
+---
+
+## GitHub 저장소 전체 목록 (2026-03-17 기준)
+
+> `++` 폴더 = GitHub 연결 / `+` 폴더 = 기존 폴더 및 수동 생성 (로컬 전용)
+
+| 로컬 폴더 | GitHub 저장소 | 상태 |
+|---|---|---|
+| `++Thesis2026` | `namchoonho-KR/Thesis2026` | 진행중 |
+| `++Tasks_Economic2026` | `namchoonho-KR/Tasks_Economic2026` | 진행중 |
+| `++routine` | `namchoonho-KR/routine` | 진행중 |
+| `++aiauto` | `namchoonho-KR/aiauto` | 진행중 |
+| `++Projects-Program` | `namchoonho-KR/Projects-Program` | 진행중 |

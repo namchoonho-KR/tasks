@@ -1,4 +1,4 @@
-# INDEX — 자동 업무 기록 시스템
+# INDEX — Tasks_Economic2026
 
 > 최종 업데이트: 2026-03-17
 > 남춘호 | 테크앤소셜연구원 | 인구와사회협동연구소
@@ -9,17 +9,19 @@
 
 | 카테고리 | 파일 | 용도 |
 |----------|------|------|
-| 논문 | [tasks/thesis/tasks.md](tasks/thesis/tasks.md) | 박사학위논문, 소논문 |
-| 연구용역 (총괄) | [tasks/research/tasks.md](tasks/research/tasks.md) | 과제 목록 및 수입전망 |
-| └ 파주시대학교유치 | [tasks/연구용역/파주시대학교유치/tasks.md](tasks/연구용역/파주시대학교유치/tasks.md) | 🔴 3/19 발표 |
-| └ 동두천평화경제 | [tasks/연구용역/동두천평화경제/tasks.md](tasks/연구용역/동두천평화경제/tasks.md) | 🟡 진행중 |
-| └ 인구감소대응계획 | [tasks/연구용역/인구감소대응계획/tasks.md](tasks/연구용역/인구감소대응계획/tasks.md) | ⚪ 대기 |
-| └ 장애인개발원 | [tasks/연구용역/장애인개발원/tasks.md](tasks/연구용역/장애인개발원/tasks.md) | ⚪ 대기 |
-| 미팅 | [tasks/meeting/tasks.md](tasks/meeting/tasks.md) | 미팅 노트, 회의록 |
-| 코딩 | [tasks/coding/tasks.md](tasks/coding/tasks.md) | 개발, 구현 |
-| 일반 | [tasks/general/tasks.md](tasks/general/tasks.md) | 기타 업무 |
-| 지식펜 | [tasks/지식펜/tasks.md](tasks/지식펜/tasks.md) | 지식펜 강연·교정 |
-| 여행 | [tasks/여행/제주도_202605/tasks.md](tasks/여행/제주도_202605/tasks.md) | 제주도 가족여행 (5월 초, 검토중) |
+| 학위논문 | [학위논문/tasks.md](학위논문/tasks.md) | 박사학위논문, 소논문 |
+| 연구 | [연구/tasks.md](연구/tasks.md) | 순수 학술 연구 |
+| 연구용역 (총괄) | [연구용역/tasks.md](연구용역/tasks.md) | 과제 목록 및 수입전망 |
+| └ 파주시대학교유치 | [연구용역/파주시대학교유치/tasks.md](연구용역/파주시대학교유치/tasks.md) | 🔴 3/19 발표 |
+| └ 동두천평화경제 | [연구용역/동두천평화경제/tasks.md](연구용역/동두천평화경제/tasks.md) | 🟡 진행중 |
+| └ 인구감소대응계획 | [연구용역/인구감소대응계획/tasks.md](연구용역/인구감소대응계획/tasks.md) | ⚪ 대기 |
+| └ 우선구매연구(장애인개발원) | [연구용역/우선구매연구(장애인개발원)/tasks.md](연구용역/우선구매연구(장애인개발원)/tasks.md) | ⚪ 대기 |
+| 회의 | [회의/tasks.md](회의/tasks.md) | 미팅 노트, 회의록 |
+| 코딩 | [코딩/tasks.md](코딩/tasks.md) | 개발, 구현 |
+| 일반 | [일반/tasks.md](일반/tasks.md) | 기타 업무 |
+| 학술연구 | [학술연구/tasks.md](학술연구/tasks.md) | 학술 연구 과업 |
+| 지식펜 | [지식펜/tasks.md](지식펜/tasks.md) | 지식펜 강연·교정 |
+| 여행 | [여행/제주도_202605/tasks.md](여행/제주도_202605/tasks.md) | 제주도 가족여행 (5월 초) |
 
 ---
 
@@ -27,19 +29,30 @@
 
 | 이름 | 파일 | 관계 |
 |------|------|------|
-| 김정석교수 | [tasks/people/김정석교수/tasks.md](tasks/people/김정석교수/tasks.md) | 지도교수 |
-| 허윤정 | [tasks/people/허윤정/tasks.md](tasks/people/허윤정/tasks.md) | 공동연구자 |
-| 김병조 | [tasks/people/김병조/tasks.md](tasks/people/김병조/tasks.md) | - |
-| 이중남 | [tasks/people/이중남/tasks.md](tasks/people/이중남/tasks.md) | - |
-| 권민중 | [tasks/people/권민중/tasks.md](tasks/people/권민중/tasks.md) | 권대표 |
-| 심민규 | [tasks/people/심민규/tasks.md](tasks/people/심민규/tasks.md) | 권민중과 막역 |
-| 이기헌 | [tasks/people/이기헌/tasks.md](tasks/people/이기헌/tasks.md) | 한국공공자치연구원 대표 |
-| 정정훈 | [tasks/people/정정훈/tasks.md](tasks/people/정정훈/tasks.md) | SSK 예비 전임연구원 |
-| 김미선 | [tasks/people/김미선/tasks.md](tasks/people/김미선/tasks.md) | 장애인연구과제 |
-| 이주현 | [tasks/people/이주현/tasks.md](tasks/people/이주현/tasks.md) | 후배 |
-| 조중술 | [tasks/people/조중술/tasks.md](tasks/people/조중술/tasks.md) | 국장 |
-| 자명심 | [tasks/people/자명심/tasks.md](tasks/people/자명심/tasks.md) | 보살 |
-| 송지희 | [tasks/people/송지희/tasks.md](tasks/people/송지희/tasks.md) | 기자 |
+| 김정석교수 | [인물별/김정석교수/tasks.md](인물별/김정석교수/tasks.md) | 지도교수 |
+| 허윤정 | [인물별/허윤정/tasks.md](인물별/허윤정/tasks.md) | 공동연구자 |
+| 김병조 | [인물별/김병조/tasks.md](인물별/김병조/tasks.md) | - |
+| 이중남 | [인물별/이중남/tasks.md](인물별/이중남/tasks.md) | - |
+| 권민중 | [인물별/권민중/tasks.md](인물별/권민중/tasks.md) | 권대표 |
+| 심민규 | [인물별/심민규/tasks.md](인물별/심민규/tasks.md) | - |
+| 이기헌 | [인물별/이기헌/tasks.md](인물별/이기헌/tasks.md) | 한국공공자치연구원 대표 |
+| 정정훈 | [인물별/정정훈/tasks.md](인물별/정정훈/tasks.md) | SSK 예비 전임연구원 |
+| 김미선 | [인물별/김미선/tasks.md](인물별/김미선/tasks.md) | 장애인연구과제 |
+| 이주현 | [인물별/이주현/tasks.md](인물별/이주현/tasks.md) | 후배 |
+| 조중술 | [인물별/조중술/tasks.md](인물별/조중술/tasks.md) | 국장 |
+| 자명심 | [인물별/자명심/tasks.md](인물별/자명심/tasks.md) | 보살 |
+| 송지희 | [인물별/송지희/tasks.md](인물별/송지희/tasks.md) | 기자 |
+
+---
+
+## 조직별 (보조 참고)
+
+| 조직 | 약칭 | 관련 연구용역 |
+|------|------|------|
+| 한국공공자치연구원 | 공공 | 인구감소대응계획 |
+| 을지대 | 제주 | 동두천평화경제, 파주시대학교유치 |
+| 테크앤소셜 | - | - |
+| 장애인개발원 | - | 우선구매연구 |
 
 ---
 
