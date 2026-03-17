@@ -1,7 +1,7 @@
 # CLAUDE.md — 자동 업무 기록 시스템
 
-> 프로젝트 루트: `C:\Dropbox\++tasks\`
-> GitHub: https://github.com/namchoonho-cmd/tasks
+> 프로젝트 루트: `C:\Dropbox\Tasks_Economic2026\`
+> GitHub: https://github.com/namchoonho-KR/tasks
 
 ---
 
