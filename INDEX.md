@@ -10,7 +10,11 @@
 | 카테고리 | 파일 | 용도 |
 |----------|------|------|
 | 논문 | [tasks/thesis/tasks.md](tasks/thesis/tasks.md) | 박사학위논문, 소논문 |
-| 연구용역 | [tasks/research/tasks.md](tasks/research/tasks.md) | 연구용역과제, 수입전망 |
+| 연구용역 (총괄) | [tasks/research/tasks.md](tasks/research/tasks.md) | 과제 목록 및 수입전망 |
+| └ 파주시대학교유치 | [tasks/연구용역/파주시대학교유치/tasks.md](tasks/연구용역/파주시대학교유치/tasks.md) | 🔴 3/19 발표 |
+| └ 동두천평화경제 | [tasks/연구용역/동두천평화경제/tasks.md](tasks/연구용역/동두천평화경제/tasks.md) | 🟡 진행중 |
+| └ 인구감소대응계획 | [tasks/연구용역/인구감소대응계획/tasks.md](tasks/연구용역/인구감소대응계획/tasks.md) | ⚪ 대기 |
+| └ 장애인개발원 | [tasks/연구용역/장애인개발원/tasks.md](tasks/연구용역/장애인개발원/tasks.md) | ⚪ 대기 |
 | 미팅 | [tasks/meeting/tasks.md](tasks/meeting/tasks.md) | 미팅 노트, 회의록 |
 | 코딩 | [tasks/coding/tasks.md](tasks/coding/tasks.md) | 개발, 구현 |
 | 일반 | [tasks/general/tasks.md](tasks/general/tasks.md) | 기타 업무 |
