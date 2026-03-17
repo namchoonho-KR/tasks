@@ -32,6 +32,9 @@
 | 정정훈 | [tasks/people/정정훈/tasks.md](tasks/people/정정훈/tasks.md) | SSK 예비 전임연구원 |
 | 김미선 | [tasks/people/김미선/tasks.md](tasks/people/김미선/tasks.md) | 장애인연구과제 |
 | 이주현 | [tasks/people/이주현/tasks.md](tasks/people/이주현/tasks.md) | 후배 |
+| 조중술 | [tasks/people/조중술/tasks.md](tasks/people/조중술/tasks.md) | 국장 |
+| 자명심 | [tasks/people/자명심/tasks.md](tasks/people/자명심/tasks.md) | 보살 |
+| 송지희 | [tasks/people/송지희/tasks.md](tasks/people/송지희/tasks.md) | 기자 |
 
 ---
 
